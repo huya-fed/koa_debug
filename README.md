@@ -16,6 +16,8 @@
 	d2('The color is %o', {b:456});
 
 
+http://a.msstatic.com/huya/hd/cdn_libs/koa_debug.js
+
 ## 更详细的看这
 
 [https://github.com/visionmedia/debug](https://github.com/visionmedia/debug)
