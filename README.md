@@ -15,8 +15,8 @@
 	var d2 = koaDebug('example2:');
 	d2('The color is %o', {b:456});
 
-
-http://a.msstatic.com/huya/hd/cdn_libs/koa_debug.js
+	// 引用地址
+	<script src="//a.msstatic.com/huya/hd/cdn_libs/koa_debug.js"></script><!--ignore-->
 
 ## 更详细的看这
 
